@@ -237,4 +237,4 @@ This repository serves as the official landing page for **Modern Combat 5: Black
 **Get the most recent version of Modern Combat 5: Blackout today!**
 
 ---
-**Last updated:** 2026-10-01 06:55:23 UTC
+**Last updated:** 2026-10-01 14:05:29 UTC
